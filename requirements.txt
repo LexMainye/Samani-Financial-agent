@@ -1,0 +1,11 @@
+gradio>=4.0.0
+pandas
+pypdf
+openpyxl
+statsmodels
+numpy<2.0.0
+scipy
+modal
+mcp
+torch>=2.6.0
+transformers
