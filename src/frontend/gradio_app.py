@@ -39,7 +39,7 @@ def create_app():
                  gr.Markdown(
                     f"""
                     **How to use:**
-                    1. Navigate to the `financials` folder on the [LexMainye/Samani-Financial-agent](https://github.com/LexMainye/Samani-Financial-agent)
+                    1. Navigate to the `financials` folder on the [LexMainye/Samani-Financial-agent](https://github.com/LexMainye/Samani-Financial-agent) GitHub repository.
                     2. Select the Statements for **multiple years** (e.g., 2020, 2021, 2022).
                     3. Drag and drop them all here.
                     4. The agent will merge and analyze them comprehensively.
