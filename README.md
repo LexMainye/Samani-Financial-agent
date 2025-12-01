@@ -2,6 +2,10 @@
 
 A comprehensive financial analysis application with advanced income statement, balance sheet, and cash flow analysis powered by FinBERT sentiment analysis and GPU acceleration via Modal.
 
+# Hugging Face Space
+[![Hugging Face Space](https://img.shields.io/badge/🤗%20Hugging%20Face-Samani%20Fin%20Analyst-blue)](https://huggingface.co/spaces/smainye/samani-fin-analyst)
+
+
 ## 🚀 Quick Start
 
 ```bash
